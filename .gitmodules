@@ -1,0 +1,9 @@
+[submodule "project1"]
+	path = project1
+	url = https://github.com/Ayman-ELwarak/Business_App.git
+[submodule "project2"]
+	path = project2
+	url = https://github.com/Ayman-ELwarak/Basketball_Points_Counter_App.git
+[submodule "project3"]
+	path = project3
+	url = https://github.com/Ayman-ELwarak/Language_Learning_App.git
