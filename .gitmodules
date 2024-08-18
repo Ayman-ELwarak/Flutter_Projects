@@ -10,3 +10,6 @@
 [submodule "project4"]
 	path = project4
 	url = https://github.com/Ayman-ELwarak/tunes_player_app.git
+[submodule "project5"]
+	path = project5
+	url = https://github.com/Ayman-ELwarak/Flutter_Projects.git
